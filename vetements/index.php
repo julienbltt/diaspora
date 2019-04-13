@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="utf-8" />
-	    <link rel="stylesheet" type="text/css"; href="../style.css" />
+	    <link rel="stylesheet" type="text/css"; href="/espace_travail/DIASPORA/design/style.css" />
 		<title>DIASPORA - Vetements</title>
 	</head>
 	
