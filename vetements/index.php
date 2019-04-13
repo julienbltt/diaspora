@@ -22,6 +22,7 @@
 				</figure>
 			</div>
 
+			<p>Home > Vetements > </p>
 			<?php include("C:/wamp/www/espace_travail/DIASPORA/template/footer.php"); ?>
 
 		</div>

@@ -59,37 +59,33 @@ nav ul li
 	margin: 10px
 }
 
-#articles
+#conteneur_articles
 {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: flex-start;
-	align-content: flex-start;
-	border: 2px solid #444;
+
 }
 
-.articles:nth-child(1)
+.article
 {
-	order: 1;
+
+}
+
+.article:nth-child(1)
+{
 	background-color: blue;
+	width: 1200px;
 }
-.articles:nth-child(2)
+.article:nth-child(2)
 {
-	order: 3;
 	background-color: yellow;
+	width: 640px;
 }
-.articles:nth-child(3)
+.article:nth-child(3)
 {
-	order: 4;
 	background-color: pink;
+	width: 640px;
 }
-.articles:nth-child(4)
+.article:nth-child(4)
 {
-	order: 2;
 	background-color: green;
-}
-
-footer
-{
-	background-color: #666;
+	width: 1200px;
 }

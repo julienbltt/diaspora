@@ -1,17 +1,17 @@
 <header>
 	<div id="titre"> 
-		<img src="logo_titre.png" alt="Logo de la marque DIASPORA" />	
+		<img src="http://localhost/espace_travail/DIASPORA/design/img/BRAND/logo_titre.png" alt="Logo de la marque DIASPORA" />	
 	</div>
 	
 	<div id="logo"> 
-		<img src="logo.png" alt="Logo " /> 
+		<img src="http://localhost/espace_travail/DIASPORA/design/img/BRAND/logo.png" alt="Logo " /> 
 	</div> 
 
 	<nav>
 		<ul>
-			<li><a href="../vetements">VETEMENTS</a></li>
+			<li><a href="/espace_travail/DIASPORA/vetements">VETEMENTS</a></li>
 			<li><a href="#">ACCESSOIRES</a></li>
-			<li><a href="#">ASSISTANCE</a></li>
+			<li><a href="#">Mon Compte</a></li>
 		</ul>
 	</nav>
 </header>
