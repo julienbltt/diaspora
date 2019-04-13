@@ -1,10 +1,10 @@
 <header>
 	<div id="titre"> 
-		<img src="design/img/BRAND/logo_titre.png" alt="Logo de la marque DIASPORA" />	
+		<img src="../design/img/BRAND/logo_titre.png" alt="Logo de la marque DIASPORA" />	
 	</div>
 	
 	<div id="logo"> 
-		<img src="design/img/BRAND/logo.png" alt="Logo d'une bousole" /> 
+		<img src="../design/img/BRAND/logo.png" /> 
 	</div> 
 
 	<nav>
