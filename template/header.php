@@ -4,7 +4,7 @@
 	</div>
 	
 	<div id="logo"> 
-		<img src="logo.png" /> 
+		<img src="logo.png" alt="Logo " /> 
 	</div> 
 
 	<nav>
