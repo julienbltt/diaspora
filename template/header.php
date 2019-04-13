@@ -9,7 +9,7 @@
 
 	<nav>
 		<ul>
-			<li><a href="vetements">VETEMENTS</a></li>
+			<li><a href="../vetements">VETEMENTS</a></li>
 			<li><a href="#">ACCESSOIRES</a></li>
 			<li><a href="#">ASSISTANCE</a></li>
 		</ul>
