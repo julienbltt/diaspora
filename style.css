@@ -1,0 +1,100 @@
+body
+{
+	background-color: black;
+	color: white;
+}
+
+#bloc_page
+{
+	margin: auto;
+}
+
+header
+{
+	display: flex;
+	justify-content: space-between;
+	/*redimentioner les images + vectoriel si possible*/
+	width: auto;
+	height: 10%;
+	border: 2px solid #444;
+}
+#titre
+{
+	order: 1;
+}
+
+#logo
+{
+	order: 3;
+}
+
+nav
+{
+	flex: 1;
+	order: 2;
+	border: 2px solid #444;
+	margin: auto;
+}
+nav ul
+{
+	display: flex;
+	justify-content: space-around;
+	margin: auto;
+	list-style-type: none;
+}
+nav a 
+{
+	font-size: 1.3em;
+    color: #181818;
+    padding-bottom: 3px;
+    text-decoration: none;
+    color: white
+}
+nav a:hover
+{
+    border-bottom: 3px solid white;
+}
+nav ul li
+{
+	margin: 10px
+}
+
+#conteneur_articles
+{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-content: space-around;
+	border: 2px solid #444;
+}
+
+.article
+{
+	height: 400px;
+}
+
+.article:nth-child(1)
+{
+	width: 1200px;
+	background-color: blue;
+}
+.article:nth-child(2)
+{
+	width: 650px;
+	background-color: yellow;
+}
+.article:nth-child(3)
+{
+	width: 650px;
+	background-color: pink;
+}
+.article:nth-child(4)
+{
+	width: 1200px;
+	background-color: green;
+}
+
+footer
+{
+	
+}
