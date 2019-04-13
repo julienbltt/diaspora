@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="utf-8" />
-        <link rel="stylesheet" type="text/css" href="design/style.css">
+        <link rel="stylesheet" type="text/css" href="style.css">
 		<title>DIASPORA</title>
 	</head>
 	
