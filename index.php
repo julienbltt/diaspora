@@ -18,6 +18,7 @@
 				<div class="article"></div> <!-- <img src="disign\img\articles\pull_vert.png"> -->
 			</div>
 
+			<p>Home > </p>
 			<?php include("template/footer.php"); ?>
 
 		</div>

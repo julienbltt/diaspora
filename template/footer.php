@@ -1,5 +1,4 @@
 <footer>
-	<p>Home > </p>
 	<p>
 		Contacts : Mail <a href="mailto:nommail@truc.com">nommail@truc.com</a> - Tel : 0000000000 | <a href="mailto:nommail@truc.com">SUPPORT</a> <br/>
 		Copyright © 2019 DIASPORA. Tout droit reservés. <br />
