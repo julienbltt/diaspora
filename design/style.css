@@ -92,3 +92,25 @@ nav ul li
 	background-color: green;
 	width: 1200px;
 }
+
+.categorie_pull
+{
+	height: 400px;
+	width: 1900px;
+	background-color: blue;
+}
+.categorie_tee_shirt
+{
+	height: 400px;
+	width: 1900px;
+	background-color: green;
+}
+
+}
+
+.article_pull_img
+{
+	height: 400px;
+	width:1200px;
+	border: 2px solid #444;
+}

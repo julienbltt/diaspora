@@ -12,12 +12,12 @@
 			<?php include("C:/wamp/www/espace_travail/DIASPORA/template/header.php"); ?>
 
 			<div id="categorie_vetements">
-				<figure class="pull">
-					<img src="design/img/banniere/pull.jpg">
+				<figure class="categorie_pull">
+					<a href="pull.php">PULL<!--<img src="design/img/banniere/pull.jpg">--></a>
 					<figcaption>Categorie PULL</figcaption>
 				</figure>
-				<figure class="tee_shirt">
-					<img src="design/img/banniere/tee_shirt.jpg">
+				<figure class="categorie_tee_shirt">
+					<a href="tee_shirt.php">TEE-SHIRT<!--<img src="design/img/banniere/tee_shirt.jpg">--></a>
 					<figcaption>Categorie TEE-SHIRT</figcaption>
 				</figure>
 			</div>
