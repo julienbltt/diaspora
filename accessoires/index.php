@@ -13,8 +13,8 @@
 
 			<div id="categorie_accessoires">
 				<figure class="categorie_casquettes">
-					<a href="casquettes.php">CASQUETTES<!--<img src="design/img/banniere/pull.jpg">--></a>
-					<figcaption>Categorie PULL</figcaption>
+					<a href="casquettes.php">CASQUETTES<!--<img src="design/img/banniere/casquettes.jpg">--></a>
+					<figcaption>Categorie casquettes</figcaption>
 				</figure>
 			</div>
 
