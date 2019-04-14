@@ -12,8 +12,8 @@
 			<?php include("C:/wamp/www/espace_travail/DIASPORA/template/header.php"); ?>
 
 			<div id="categorie_accessoires">
-				<figure class="categorie_casquette">
-					<a href="pull.php">PULL<!--<img src="design/img/banniere/pull.jpg">--></a>
+				<figure class="categorie_casquettes">
+					<a href="casquettes.php">CASQUETTES<!--<img src="design/img/banniere/pull.jpg">--></a>
 					<figcaption>Categorie PULL</figcaption>
 				</figure>
 			</div>
