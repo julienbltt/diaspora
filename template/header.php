@@ -10,7 +10,7 @@
 	<nav>
 		<ul>
 			<li><a href="/espace_travail/DIASPORA/vetements">VETEMENTS</a></li>
-			<li><a href="#">ACCESSOIRES</a></li>
+			<li><a href="/espace_travail/DIASPORA/accessoires">ACCESSOIRES</a></li>
 			<li><a href="#">Mon Compte</a></li>
 		</ul>
 	</nav>
