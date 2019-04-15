@@ -14,7 +14,7 @@
 
 			<?php
 
-			if (isset($_SESSION['id']) AND isset($_SESSION['pseudo'])) 
+			if (isset($_SESSION['id']) AND isset($_SESSION['email'])) 
 			{
 				echo '<p>Voici votre email' . $_SESSION['email'] . '</p>';
 			}
