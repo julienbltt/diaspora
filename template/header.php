@@ -37,7 +37,7 @@
 					<ul>
 						<li><a href="/espace_travail/DIASPORA/vetements">VETEMENTS</a></li>
 						<li><a href="/espace_travail/DIASPORA/accessoires">ACCESSOIRES</a></li>
-						<li><a href="/espace_travail/DIASPORA/inscription">Inscription</a></li>
+						<li><a href="/espace_travail/DIASPORA/inscription">INSCRIPTION</a></li>
 					</ul>
 				</nav>
 			</header>
