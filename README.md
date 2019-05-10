@@ -10,3 +10,4 @@ Outils :
  - Simulateur code HTML,CSS,JS : https://codepen.io/
  - convertisseur scss into css : https://www.cssportal.com/scss-to-css/
  - Présentation PowerPoint : https://templates.office.com/fr-BE/Pr%C3%A9sentation-Circuit-trois-lignes-grand-%C3%A9cran-TM02787990
+ - Création d'un shemat de base de donnée : https://app.quickdatabasediagrams.com
