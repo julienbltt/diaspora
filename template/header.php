@@ -4,7 +4,7 @@
 ?>
 			<header>
 				<div id="titre"> 
-					<img src="http://localhost/espace_travail/DIASPORA/design/img/BRAND/logo_titre.png" alt="Logo de la marque DIASPORA" />	
+					<a href="../index.php"><img src="http://localhost/espace_travail/DIASPORA/design/img/BRAND/logo_titre.png" alt="Logo de la marque DIASPORA" /></a>
 				</div>
 				
 				<div id="logo"> 
@@ -26,7 +26,7 @@
 ?>
 			<header>
 				<div id="titre"> 
-					<img src="http://localhost/espace_travail/DIASPORA/design/img/BRAND/logo_titre.png" alt="Logo de la marque DIASPORA" />	
+					<a href="../index.php"><img src="http://localhost/espace_travail/DIASPORA/design/img/BRAND/logo_titre.png" alt="Logo de la marque DIASPORA" /></a>
 				</div>
 				
 				<div id="logo"> 
@@ -38,6 +38,7 @@
 						<li><a href="/espace_travail/DIASPORA/vetements">VETEMENTS</a></li>
 						<li><a href="/espace_travail/DIASPORA/accessoires">ACCESSOIRES</a></li>
 						<li><a href="/espace_travail/DIASPORA/inscription">INSCRIPTION</a></li>
+						<li><a href="/espace_travail/DIASPORA/connection.php">CONNECTION</a></li>
 					</ul>
 				</nav>
 			</header>
