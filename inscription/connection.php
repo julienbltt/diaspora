@@ -53,6 +53,8 @@ if(isset($_POST['formConnect']))
 	
 	<body>
 
+		<?php include("../template/header.php"); ?>
+
 		<div align="center">
 			<h2>Connection</h3>
 			<br /><br /><br />
@@ -91,7 +93,9 @@ if (isset($erreur))
 
 ?>
 		</div>
-	
+
+		<?php include("../template/header.php"); ?>
+
 	</body>
 </html>
 

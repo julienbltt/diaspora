@@ -19,7 +19,9 @@ if(isset($_GET['id']) AND $_GET['id'] > 0)
 	</head>
 	
 	<body>
-
+		
+		<?php include("../template/header.php"); ?>
+		
 		<div align="center">
 			<h2>Profil</h3>
 			<br /><br /><br />
@@ -36,6 +38,8 @@ if ($userInfo['id'] == $_SESSION['id'])
 }
 ?>
 		</div>
-	
+		
+		<?php include("../template/footer.php"); ?>
+
 	</body>
 </html>
