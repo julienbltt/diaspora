@@ -4,11 +4,11 @@
 ?>
 			<header>
 				<div id="titre"> 
-					<a href="../index.php"><img src="http://localhost/espace_travail/DIASPORA/design/img/BRAND/logo_titre.png" alt="Logo de la marque DIASPORA" /></a>
+					<a href="C:\wamp\www\espace_travail\DIASPORA"><img src="http://localhost/espace_travail/DIASPORA/design/img/BRAND/logo_titre.png" alt="Logo de la marque DIASPORA" /></a>
 				</div>
 				
 				<div id="logo"> 
-					<img src="http://localhost/espace_travail/DIASPORA/design/img/BRAND/logo.png" alt="Logo " /> 
+					<a href="C:\wamp\www\espace_travail\DIASPORA\panier"><img src="http://localhost/espace_travail/DIASPORA/design/img/BRAND/logo.png" alt="Logo " /></a>
 				</div> 
 
 				<nav>
@@ -26,11 +26,11 @@
 ?>
 			<header>
 				<div id="titre"> 
-					<a href="../index.php"><img src="http://localhost/espace_travail/DIASPORA/design/img/BRAND/logo_titre.png" alt="Logo de la marque DIASPORA" /></a>
+					<a href="C:\wamp\www\espace_travail\DIASPORA"><img src="http://localhost/espace_travail/DIASPORA/design/img/BRAND/logo_titre.png" alt="Logo de la marque DIASPORA" /></a>
 				</div>
 				
 				<div id="logo"> 
-					<img src="http://localhost/espace_travail/DIASPORA/design/img/BRAND/logo.png" alt="Logo " /> 
+					<a href="C:\wamp\www\espace_travail\DIASPORA\panier"><img src="http://localhost/espace_travail/DIASPORA/design/img/BRAND/logo.png" alt="Logo " /></a>
 				</div> 
 
 				<nav>
