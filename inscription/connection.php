@@ -47,7 +47,7 @@ if(isset($_POST['formConnect']))
 <html>
 	<head>
 		<meta charset="utf-8" />
-        <link rel="stylesheet" type="text/css" href="design/style.css">
+        <link rel="stylesheet" type="text/css" href="/espace_travail/DIASPORA/design/style.css">
 		<title>DIASPORA</title>
 	</head>
 	
@@ -62,7 +62,7 @@ if(isset($_POST['formConnect']))
 				<table>
 					<tr>
 						<td align="right">
-							<label for="emailConnect"></label>Email :
+							<label for="emailConnect"></label>Email 
 						</td>
 						<td>
 							<input type="email" name="emailConnect" id="emailConnect" placeholder="exemple@mail.fr" />
@@ -70,7 +70,7 @@ if(isset($_POST['formConnect']))
 					</tr>
 					<tr>
 						<td align="right">
-							<label for="passwordConnect"></label>Mot de passe :
+							<label for="passwordConnect"></label>Mot de passe 
 						</td>
 						<td>
 							<input type="password" name="passwordConnect" id="passwordConnect" />
@@ -94,8 +94,7 @@ if (isset($erreur))
 ?>
 		</div>
 
-		<?php include("../template/header.php"); ?>
+		<?php include("../template/footer.php"); ?>
 
 	</body>
 </html>
-

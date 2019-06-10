@@ -14,7 +14,7 @@ if(isset($_GET['id']) AND $_GET['id'] > 0)
 <html>
 	<head>
 		<meta charset="utf-8" />
-        <link rel="stylesheet" type="text/css" href="design/style.css">
+        <link rel="stylesheet" type="text/css" href="/espace_travail/DIASPORA/design/style.css">
 		<title>DIASPORA</title>
 	</head>
 	
@@ -43,3 +43,42 @@ if ($userInfo['id'] == $_SESSION['id'])
 
 	</body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

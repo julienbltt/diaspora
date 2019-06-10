@@ -57,7 +57,7 @@ if (isset($_POST['forminscription']))
 <html>
 	<head>
 		<meta charset="utf-8" />
-        <link rel="stylesheet" type="text/css" href="design/style.css">
+        <link rel="stylesheet" type="text/css" href="/espace_travail/DIASPORA/design/style.css">
 		<title>DIASPORA</title>
 	</head>
 	
@@ -73,7 +73,7 @@ if (isset($_POST['forminscription']))
 				<table>
 					<tr>
 						<td align="right">
-							<label for="email"></label>Email :
+							<label for="email"></label>Email 
 						</td>
 						<td>
 							<input type="email" name="email" id="email" placeholder="exemple@mail.fr" value="<?php if(isset($email)) { echo $email; } ?>" />
@@ -81,7 +81,7 @@ if (isset($_POST['forminscription']))
 					</tr>
 					<tr>
 						<td align="right">
-							<label for="password"></label>Mot de passe :
+							<label for="password"></label>Mot de passe 
 						</td>
 						<td>
 							<input type="password" name="password" id="password" />
@@ -89,7 +89,7 @@ if (isset($_POST['forminscription']))
 					</tr>
 					<tr>
 						<td align="right">
-							<label for="password_confirm"></label>Confirmez votre mot de passe :
+							<label for="password_confirm"></label>Confirmez votre mot de passe 
 						</td>
 						<td>
 							<input type="password" name="password_confirm" id="password_confirm">
@@ -117,3 +117,39 @@ if (isset($erreur))
 
 	</body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

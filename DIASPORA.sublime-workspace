@@ -259,6 +259,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "design/style.css",
+			"settings":
+			{
+				"buffer_size": 1324,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -321,26 +329,32 @@
 	},
 	"expanded_folders":
 	[
-		"/C/wamp/www/espace_travail/DIASPORA"
+		"/C/wamp/www/espace_travail/DIASPORA",
+		"/C/wamp/www/espace_travail/DIASPORA/design",
+		"/C/wamp/www/espace_travail/DIASPORA/mon_compte"
 	],
 	"file_history":
 	[
-		"/C/wamp/www/espace_travail/DIASPORA/inscription/deconnection.php",
-		"/C/wamp/www/espace_travail/DIASPORA/inscription/profil.php",
-		"/C/wamp/www/espace_travail/DIASPORA/inscription/connection.php",
-		"/C/wamp/www/espace_travail/DIASPORA/.gitignore",
-		"/C/wamp/www/espace_travail/DIASPORA/inscription/inscription.php",
-		"/C/wamp/www/espace_travail/DIASPORA/accessoires/casquettes.php",
-		"/C/wamp/www/espace_travail/DIASPORA/accessoires/index.php",
+		"/C/wamp/www/espace_travail/DIASPORA/index.php",
 		"/C/wamp/www/espace_travail/DIASPORA/vetements/tee_shirt.php",
 		"/C/wamp/www/espace_travail/DIASPORA/vetements/pull.php",
-		"/C/wamp/www/espace_travail/DIASPORA/index.php",
-		"/C/wamp/www/espace_travail/DIASPORA/template/header.php",
-		"/C/wamp/www/espace_travail/DIASPORA/mon_compte/index.php",
 		"/C/wamp/www/espace_travail/DIASPORA/vetements/index.php",
-		"/C/wamp/www/espace_travail/DIASPORA/README.md",
-		"/C/wamp/www/espace_travail/DIASPORA/design/style.css",
+		"/C/wamp/www/espace_travail/DIASPORA/template/header.php",
 		"/C/wamp/www/espace_travail/DIASPORA/template/footer.php",
+		"/C/wamp/www/espace_travail/DIASPORA/panier/index.php",
+		"/C/wamp/www/espace_travail/DIASPORA/panier/fonction-panier.php",
+		"/C/wamp/www/espace_travail/DIASPORA/mon_compte/index.php",
+		"/C/wamp/www/espace_travail/DIASPORA/accessoires/casquettes.php",
+		"/C/wamp/www/espace_travail/DIASPORA/accessoires/index.php",
+		"/C/wamp/www/espace_travail/DIASPORA/design/style.css",
+		"/C/wamp/www/espace_travail/DIASPORA/inscription/index.php",
+		"/C/wamp/www/espace_travail/DIASPORA/inscription/deconnection.php",
+		"/C/wamp/www/espace_travail/DIASPORA/inscription/connection.php",
+		"/C/wamp/www/espace_travail/DIASPORA/inscription/profil.php",
+		"/C/Users/Julien/Downloads/inscription.php",
+		"/C/wamp/www/espace_travail/DIASPORA/.gitignore",
+		"/C/wamp/www/espace_travail/DIASPORA/inscription/inscription.php",
+		"/C/wamp/www/espace_travail/DIASPORA/README.md",
 		"/C/wamp/www/espace_travail/DIASPORA/style.css",
 		"/C/wamp/www/espace_travail/DIASPORA/design/style_home.css",
 		"/C/wamp/www/espace_travail/DIASPORA/vetments/index.php",
@@ -427,7 +441,7 @@
 	],
 	"find":
 	{
-		"height": 24.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
@@ -467,14 +481,44 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "design/style.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1324,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 924.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 24.0
+		"height": 23.0
 	},
 	"input":
 	{
@@ -511,7 +555,7 @@
 	"project": "DIASPORA.sublime-project",
 	"replace":
 	{
-		"height": 44.0
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":
