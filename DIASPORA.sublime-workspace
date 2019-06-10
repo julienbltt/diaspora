@@ -1,0 +1,611 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"session",
+				"session_destroy"
+			],
+			[
+				"pas",
+				"passwordConnect"
+			],
+			[
+				"passw",
+				"passwordConnect"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"password",
+				"password_verify"
+			],
+			[
+				"email",
+				"emailconnect"
+			],
+			[
+				"filt",
+				"filter_var"
+			],
+			[
+				"ereur",
+				"erreur"
+			],
+			[
+				"em",
+				"emaillenght"
+			],
+			[
+				"form",
+				"forminscription"
+			],
+			[
+				"t",
+				"td\tTag"
+			],
+			[
+				"i",
+				"input\tTag"
+			],
+			[
+				"f",
+				"for\tAttr"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"e",
+				"echo\techo \"…\""
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"flx",
+				"flex-wrap\tproperty"
+			],
+			[
+				"s",
+				"space-around\talign-content"
+			],
+			[
+				"con",
+				"justify-content\tproperty"
+			],
+			[
+				"de",
+				"design"
+			],
+			[
+				"fi",
+				"figure\tTag"
+			],
+			[
+				"flex",
+				"flex\tproperty"
+			],
+			[
+				"align",
+				"align-content\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"auto",
+				"autofocus\tAttr"
+			],
+			[
+				"ma",
+				"maxlength\tAttr"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"n",
+				"nbr_livre"
+			],
+			[
+				"id",
+				"Identifiant"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"mot",
+				"mot_de_passe"
+			],
+			[
+				"mo",
+				"mot_de_passe"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"htm",
+				"htmlspecialchars"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"ro",
+				"row-reverse\tflex-direction"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"rg",
+				"rgb()\tbackground-color"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"bol",
+				"bolder\tfont-weight"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"font-",
+				"font-style\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"sha",
+				"box-shadow\tproperty"
+			],
+			[
+				"rgb",
+				"rgba()\tbackground-color"
+			],
+			[
+				"colr",
+				"color-rendering\tproperty"
+			],
+			[
+				"m",
+				"meta\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "design/style.css",
+			"settings":
+			{
+				"buffer_size": 1324,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"git",
+				"Set Syntax: Git Config"
+			],
+			[
+				"git status",
+				"Set Syntax: Git Attributes"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"cd ",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+			"git status",
+			"git ",
+			"git",
+			"git help",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/espace_travail/DIASPORA",
+		"/C/wamp/www/espace_travail/DIASPORA/design",
+		"/C/wamp/www/espace_travail/DIASPORA/mon_compte"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/espace_travail/DIASPORA/index.php",
+		"/C/wamp/www/espace_travail/DIASPORA/vetements/tee_shirt.php",
+		"/C/wamp/www/espace_travail/DIASPORA/vetements/pull.php",
+		"/C/wamp/www/espace_travail/DIASPORA/vetements/index.php",
+		"/C/wamp/www/espace_travail/DIASPORA/template/header.php",
+		"/C/wamp/www/espace_travail/DIASPORA/template/footer.php",
+		"/C/wamp/www/espace_travail/DIASPORA/panier/index.php",
+		"/C/wamp/www/espace_travail/DIASPORA/panier/fonction-panier.php",
+		"/C/wamp/www/espace_travail/DIASPORA/mon_compte/index.php",
+		"/C/wamp/www/espace_travail/DIASPORA/accessoires/casquettes.php",
+		"/C/wamp/www/espace_travail/DIASPORA/accessoires/index.php",
+		"/C/wamp/www/espace_travail/DIASPORA/design/style.css",
+		"/C/wamp/www/espace_travail/DIASPORA/inscription/index.php",
+		"/C/wamp/www/espace_travail/DIASPORA/inscription/deconnection.php",
+		"/C/wamp/www/espace_travail/DIASPORA/inscription/connection.php",
+		"/C/wamp/www/espace_travail/DIASPORA/inscription/profil.php",
+		"/C/Users/Julien/Downloads/inscription.php",
+		"/C/wamp/www/espace_travail/DIASPORA/.gitignore",
+		"/C/wamp/www/espace_travail/DIASPORA/inscription/inscription.php",
+		"/C/wamp/www/espace_travail/DIASPORA/README.md",
+		"/C/wamp/www/espace_travail/DIASPORA/style.css",
+		"/C/wamp/www/espace_travail/DIASPORA/design/style_home.css",
+		"/C/wamp/www/espace_travail/DIASPORA/vetments/index.php",
+		"/C/wamp/www/espace_travail/DIASPORA/vetements.php",
+		"/C/wamp/www/espace_travail/DIASPORA/design/style_vetements.css",
+		"/C/Users/Julien/Desktop/isn/Acceuil.html",
+		"/C/wamp/www/espace_travail/index.html",
+		"/C/wamp/www/espace_travail/commentaire.php",
+		"/C/wamp/www/espace_travail/style.css",
+		"/C/wamp/www/espace_travail/index.php",
+		"/C/wamp/www/espace_travail/commande SQL/Lire/index2.php",
+		"/C/wamp/www/espace_travail/commande SQL/Lire/index.php",
+		"/C/wamp/www/espace_travail/index2.php",
+		"/C/wamp/apps/phpmyadmin4.8.4/config.inc.php",
+		"/C/wamp64/www/index.php",
+		"/C/wamp64/apps/phpmyadmin4.8.4/config.inc.php",
+		"/C/Users/Julien/Desktop/config.php",
+		"/C/wamp64/apps/phpmyadmin4.8.4/setup/frames/config.inc.php",
+		"/C/wamp64/www/tests/minichat.php",
+		"/C/wamp64/www/tests/minichat_post.php",
+		"/C/wamp64/www/tests/MySQL/Ecrire/index.php",
+		"/C/wamp64/www/tests/MySQL/Lire/index.php",
+		"/C/wamp64/www/tests/index.php",
+		"/C/wamp64/www/tests/index2.php",
+		"/C/wamp64/www/tests/MySQL/index.php",
+		"/C/wamp64/www/tests/unepage.php",
+		"/C/wamp64/www/tests/test PDO.php",
+		"/C/wamp64/www/tests/form.php",
+		"/C/Users/Julien/Documents/_projet/datalink/form.php",
+		"/C/Users/Julien/documents/_projet/datalink/index.php",
+		"/C/Users/Julien/documents/_projet/datalink/form.php",
+		"/C/Users/Julien/Desktop/Si/Page1.html",
+		"/C/Users/Julien/iCloudDrive/apprentissage/personnel/formation/git/formationGit/texte1.md",
+		"/C/Users/Julien/iCloudDrive/apprentissage/personnel/formation/git/formationGit/text2.md",
+		"/C/Users/Julien/Desktop/Si/traitement.php",
+		"/C/Users/Julien/Desktop/Si/PHP.php",
+		"/C/Users/Julien/Desktop/Si/Page_test.php",
+		"/C/Users/Julien/documents/_projet/monPremierRepo/checklist_apprendre_a_coder.md",
+		"/C/Users/Julien/Desktop/Page1.html",
+		"/C/Program Files/Git/ReleaseNotes.html",
+		"/C/wamp64/www/tests/TP n°1/formulaire.php",
+		"/C/wamp64/www/tests/TP n°1/secret.php",
+		"/C/wamp64/www/tests/cible.php",
+		"/C/wamp64/www/tests/bonjour.php",
+		"/C/wamp64/www/tests/info.php",
+		"/C/Users/Julien/Documents/Apprentissage/Personel/Formation/HTML+CSS/test.html",
+		"/C/wamp64/www/tests/cv.php",
+		"/C/wamp64/www/tests/acceuil.php",
+		"/C/wamp64/www/tests/nav.html",
+		"/C/wamp64/www/tests/header.html",
+		"/C/wamp64/www/tests/footer.html",
+		"/C/wamp64/www/tests/Acceuil.php",
+		"/C/Users/Julien/Documents/Apprentissage/Personel/Formation/HTML+CSS/style.css",
+		"/C/wamp64/bin/apache/apache2.4.37/bin/php.ini",
+		"/C/Users/Julien/iCloudDrive/Apprentissage/ISN/Projet/Site/style.css",
+		"/C/Users/Julien/iCloudDrive/Apprentissage/ISN/Projet/Site/Acceuil.html",
+		"/C/Users/Julien/Documents/Apprentissage/Personel/Formation/HTML+CSS/Exercice/CV.html",
+		"/C/Users/Julien/Documents/Apprentissage/Personel/Formation/HTML+CSS/Exercice/style_cv.css",
+		"/C/Users/Julien/AppData/Local/Temp/Rar$EXa23000.16185/CV.html",
+		"/C/Users/Julien/Desktop/forge-1.12.2-14.23.4.2705-installer.jar",
+		"/C/Users/Julien/iCloudDrive/Apprentissage/ISN/Projet/Acceuil.html",
+		"/C/Users/Julien/Documents/Apprentissage/Personel/Formation/HTML+CSS/Corection/exercice CV openclassroom/CV_Formater/cv/style.css",
+		"/C/Users/Julien/Documents/Apprentissage/Personel/Formation/HTML+CSS/Corection/exercice CV openclassroom/CV_Formater/cv/cv.html",
+		"/C/Users/Julien/Documents/Apprentissage/Personel/Formation/HTML+CSS/Corection/exercice CV openclassroom/CV_Formater/cv/.DS_Store",
+		"/C/Users/Julien/Documents/Apprentissage/Personel/Formation/HTML+CSS/Corection/exercice CV openclassroom/CV_Formater/cv_style.css",
+		"/C/Users/Julien/Documents/Apprentissage/Personel/Formation/HTML+CSS/Corection/exercice CV openclassroom/CV_Formater/devoir_contruire_CV.html",
+		"/C/Users/Julien/Documents/Apprentissage/Personel/Formation/HTML+CSS/Corection/exercice CV openclassroom/CV.html",
+		"/C/Users/Julien/Documents/Apprentissage/Personel/Formation/HTML+CSS/Corection/exercice CV openclassroom/cv.css",
+		"/C/Users/Julien/Documents/Apprentissage/Personel/Formation/HTML+CSS/Corection/exercice CV openclassroom/style.css",
+		"/C/Users/Julien/Documents/Apprentissage/Personel/Formation/HTML+CSS/Corection/exercice CV openclassroom/main.html",
+		"/C/Users/Julien/Documents/Apprentissage/Personel/Formation/HTML+CSS/Corection/styleCV.css",
+		"/C/Users/Julien/Documents/Apprentissage/Personel/Formation/HTML+CSS/Corection/CV.html",
+		"/C/Users/Julien/Documents/Apprentissage/Personel/Formation/HTML+CSS/Corection/CV_ZAKARIA_BENLEDRA_HTML/CV_style.css",
+		"/C/Users/Julien/Documents/Apprentissage/Personel/Formation/HTML+CSS/Corection/CV_ZAKARIA_BENLEDRA_HTML/CV.html",
+		"/C/Users/Julien/Documents/Apprentissage/Personel/Formation/HTML+CSS/Exercice/style.css",
+		"/C/Users/Julien/Documents/Etude/Personel/Formation/HTML+CSS/test.html",
+		"/C/Users/Julien/Desktop/Corection/Activité 1/page.html",
+		"/C/Users/Julien/Desktop/Corection/CV/cv.html",
+		"/C/Users/Julien/Desktop/Corection/Activité 1.html",
+		"/C/Users/Julien/Desktop/Corection/cv-en-ligne.html",
+		"/C/Users/Julien/Desktop/Corection/CV/cv_JMLB.html",
+		"/C/Users/Julien/Desktop/Corection/cv.html",
+		"/C/Users/Julien/Desktop/Corection/n°1.zip"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 115.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"email",
+			"Email",
+			"email",
+			"mot_de_passe",
+			"articles",
+			"$cfg['RowActionLinksWithoutUnique']\n",
+			"<!DOCTYPE html>\n",
+			";\n",
+			"}\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "design/style.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1324,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 924.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "DIASPORA.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 179.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 4
+	}
+}

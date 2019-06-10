@@ -1,3 +1,4 @@
+<?php session_start(); ?>
 <!DOCTYPE html>
 <html>
 	<head>
@@ -9,7 +10,7 @@
 	<body>
 		<div id="block_page">
 			
-			<?php include("C:/wamp/www/espace_travail/DIASPORA/template/header.php"); ?>
+			<?php include("../template/header.php"); ?>
 
 			<div id="categorie_accessoires">
 				<figure class="categorie_casquettes">
@@ -19,7 +20,7 @@
 			</div>
 
 			<p>Home > Accessoires > </p>
-			<?php include("C:/wamp/www/espace_travail/DIASPORA/template/footer.php"); ?>
+			<?php include("../template/footer.php"); ?>
 
 		</div>
 	</body>
