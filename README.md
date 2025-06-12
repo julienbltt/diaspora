@@ -13,4 +13,4 @@ DIASPORA is a new commercial site.
 
 ---
 
-> Dépôt créer dans le cadre de la réalisation d'un projet pour l'option ISN au Lycée des Eucalyptus à Nice par des élèves de première.
+> Le dépôt a été créé dans le cadre de la réalisation d'un projet pour l'option ISN au Lycée des Eucalyptus à Nice par des élèves de première.
